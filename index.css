@@ -38,3 +38,7 @@ a {
 img {
     border-radius: 30px;
 }
+div {
+    color:blue;
+    font-family: monospace;
+}
